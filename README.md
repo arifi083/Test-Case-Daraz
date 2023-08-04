@@ -1,6 +1,6 @@
 # Test case for Daraz website and application.
 
-### Test case writing for <a href="https://www.daraz.com.bd/">Daraz Websit</a> and Daraz Aplication.
+### Test case writing for <a href="https://www.daraz.com.bd/">Daraz Website</a> and Daraz Aplication.
 
 #### For Daraz website:
 
